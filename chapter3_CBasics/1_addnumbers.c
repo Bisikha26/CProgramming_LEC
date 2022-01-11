@@ -8,3 +8,4 @@ void main() {
 
     printf("Sum of two numbers is : %d", sum);
 }
+
