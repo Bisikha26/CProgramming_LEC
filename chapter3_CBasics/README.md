@@ -68,5 +68,14 @@ Hexadecimal: 0x7f, 0x2a, 0x521 etc
 # Constants - Defining a variable whose value cannot be changed
 
 ```
-const double PI = 3.14;
+#define PI = 3.14;
 PI = 2.9; //Error
+
+Rule : Symbolic names are similar to variable names. They are generally written in UPPER CASE
+       Symbolic names are not decleared for data types. Its data type depends on the type of constants
+
+---
+
+# Typedef
+Defination of our own type based on other existing data types. It doesnot create new data type rather, it creates 
+synonymes of existing types
