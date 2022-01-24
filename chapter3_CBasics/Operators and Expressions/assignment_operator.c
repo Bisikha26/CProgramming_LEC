@@ -23,19 +23,4 @@ void main() {
    c  = 200;
    c %=  a;
    printf("Line 6 - %= Operator Example, Value of c = %d\n", c );
-
-   c <<=  2;
-   printf("Line 7 - <<= Operator Example, Value of c = %d\n", c );
-
-   c >>=  2;
-   printf("Line 8 - >>= Operator Example, Value of c = %d\n", c );
-
-   c &=  2;
-   printf("Line 9 - &= Operator Example, Value of c = %d\n", c );
-
-   c ^=  2;
-   printf("Line 10 - ^= Operator Example, Value of c = %d\n", c );
-
-   c |=  2;
-   printf("Line 11 - |= Operator Example, Value of c = %d\n", c );
 }
