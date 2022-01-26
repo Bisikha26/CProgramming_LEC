@@ -29,5 +29,4 @@ void main() {
    if ( !(a && b) ) {
       printf("Line 4 - Condition is true\n" );
    }
-	
 }
