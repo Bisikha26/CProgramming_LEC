@@ -8,7 +8,7 @@ void main() {
     // nested if else
     if ( cmark >= 40 ) {
         printf("Yayy, you have passed in C Programming");
-        if(cmark >=85) {
+        if(cmark >= 85) {
             printf("Your grade is A+");
         } else if(cmark >= 70 && cmark < 85) {
             printf("Your grade is A");
